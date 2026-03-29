@@ -19,7 +19,7 @@ I'm a **Data Analyst transitioning to Data Engineering** — bridging the gap be
 - 🔍 Currently transitioning from **DA → DE**
 - 🛠️ Building ETL pipelines, data models, and analytical dashboards
 - ☁️ Working with **AWS** and **Azure** cloud platforms
-- 🌍 Based in Nigeria | Open to **remote & relocation**
+- 🌍 Normadic  | Open to **remote & relocation**
 - 📬 Reach me at **enyinnayadaberechi@gmail.com**
 
 ---
