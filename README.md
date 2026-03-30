@@ -5,7 +5,7 @@
 ### Data Analyst → Data Engineer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00d4ff?style=for-the-badge)](https://dabspluggins.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/enyinnaya-daberechi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enyinnayadaberechi/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:enyinnayadaberechi@gmail.com)
 
 </div>
